@@ -3,7 +3,7 @@ a tool for playing with MOLEK-SYNTEZ solution files.
 
 Submarine can view Molek-Syntez's .solution files, and import and export them with JSON.
 
-This uses my `molek-cheatez` library.
+This uses my [molek-cheatez](https://github.com/gamma-delta/molek-cheatez) library.
 
 ## Syntax
 
